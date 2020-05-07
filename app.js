@@ -11,8 +11,6 @@ const PORT = process.env.PORT || 3000;
 
 server.listen(PORT, () => console.log(`Our app is running on port ${PORT}`));
 
-API = "6a58b4ffedbcc8adf31861a725a34c82";
-TOKEN = "1271479582:AAGjzv8Q-6DHfAc8TvaOoyaScohAivx-eYE";
 
 // Be sure to replace YOUR_BOT_TOKEN with your actual bot token on this line.
 
